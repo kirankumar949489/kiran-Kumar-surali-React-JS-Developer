@@ -1,7 +1,5 @@
 ﻿# kiran-Kumar-surali-React-JS-Developer
 
- # Kiran Kumar Surali - React JS Developer Portfolio
-
 A multi-theme portfolio web application showcasing frontend development skills with themes including Minimalist, Dark Elegant, and Playful Colorful.
 
 ## 🌐 Live Demo
